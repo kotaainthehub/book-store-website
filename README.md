@@ -146,7 +146,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 For questions or feedback, feel free to reach out:
 
-- **GitHub**: [@your-username](https://github.com/kotaainthehub)
+- **GitHub**: [@kotaainthehub](https://github.com/kotaainthehub)
 - **Email**: riznirox31@example.com
 
 ---
