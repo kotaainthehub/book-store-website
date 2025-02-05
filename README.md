@@ -157,7 +157,7 @@ Happy coding! 🚀✨
 ---
 
 ### Notes:
-- Replace placeholders like `your-username`, `your-email@example.com`, and `path/to/database.sql` with actual values.
+- Replace placeholders like `kotaainthehub`, `riznirox31@gmail.com`, and `path/to/database.sql` with actual values.
 - If you have additional features or dependencies, include them in the respective sections.
 
 Let me know if you need further customization! 😊
